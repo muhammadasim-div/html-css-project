@@ -1,0 +1,52 @@
+body {
+    background-color: white;   
+    font-family: Arial, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+    background-color: lightblue;
+    padding: 15px;
+    border: 5px solid blue;
+}
+
+.profile {
+    background-color: white;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #3498db;
+}
+
+.profile h2 {
+    color: #3498db;
+}
+
+.profile p {
+    font-size: 18px;
+}
+
+
+.hobbies {
+    background-color: white;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #27ae60;
+}
+
+.hobbies h3 {
+    color: #27ae60;
+}
+
+
+.contact {
+    background-color: white;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid #8e44ad;
+}
+
+.contact h3 {
+    color: #8e44ad;
+}
